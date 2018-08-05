@@ -12,6 +12,8 @@
 		EE794A982116D08B00389CD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE794A962116D08B00389CD2 /* Main.storyboard */; };
 		EE794A9A2116D08D00389CD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE794A992116D08D00389CD2 /* Assets.xcassets */; };
 		EE794A9D2116D08D00389CD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE794A9B2116D08D00389CD2 /* LaunchScreen.storyboard */; };
+		EE794AA62116D43F00389CD2 /* light_saber1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EE794AA42116D43F00389CD2 /* light_saber1.mp3 */; };
+		EE794AA72116D43F00389CD2 /* light_saber3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EE794AA52116D43F00389CD2 /* light_saber3.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		EE794A992116D08D00389CD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE794A9C2116D08D00389CD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE794A9E2116D08D00389CD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE794AA42116D43F00389CD2 /* light_saber1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = light_saber1.mp3; sourceTree = "<group>"; };
+		EE794AA52116D43F00389CD2 /* light_saber3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = light_saber3.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				EE794A992116D08D00389CD2 /* Assets.xcassets */,
 				EE794A9B2116D08D00389CD2 /* LaunchScreen.storyboard */,
 				EE794A9E2116D08D00389CD2 /* Info.plist */,
+				EE794AA42116D43F00389CD2 /* light_saber1.mp3 */,
+				EE794AA52116D43F00389CD2 /* light_saber3.mp3 */,
 			);
 			path = LightSaber;
 			sourceTree = "<group>";
@@ -123,8 +129,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE794A9D2116D08D00389CD2 /* LaunchScreen.storyboard in Resources */,
+				EE794AA72116D43F00389CD2 /* light_saber3.mp3 in Resources */,
 				EE794A9A2116D08D00389CD2 /* Assets.xcassets in Resources */,
 				EE794A982116D08B00389CD2 /* Main.storyboard in Resources */,
+				EE794AA62116D43F00389CD2 /* light_saber1.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
